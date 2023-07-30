@@ -1,0 +1,83 @@
+body{
+    background-color: #D8C17C;
+    font-family: 'Ysabeau SC', sans-serif;
+}
+
+img{
+    margin-top: 50px;
+    width: 660px;
+    border-radius: 20px;
+}
+
+.jung{
+    width: 660px;
+}
+
+.title-astrobiologia{
+    font-size: 20px;
+}
+
+.title-universo{
+    font-size: 20px;
+}
+
+.title-estrellas{
+    font-size: 20px;
+}
+
+#p-universo{
+    color: #4A4946;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    line-height: 2em;
+}
+
+#p-atrobiologia{
+    color: #4A4946;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    line-height: 2em;
+}
+
+#p-estrellas{
+    color: #4A4946;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    line-height: 2em
+}
+
+.title-misiones{
+    font-size: 20px
+}
+
+.title-topestrellas{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.p-title{
+    font-size: 40px;
+    font-family: 'Ysabeau SC', sans-serif;
+    background-color: #816923;
+}
+
+.p.clic{
+    background-color: blue;
+}
+
+.img1{
+    width: 400px;
+    margin: 20px;
+}
+
+.img2{
+    width: 400px;
+    margin: 20px;
+    height: 200px;
+}
+
+img{
+    width: 400px;
+    margin: 20px;
+    height: 200px;
+}
